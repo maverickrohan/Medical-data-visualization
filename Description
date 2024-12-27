@@ -1,0 +1,35 @@
+Medical Data Visualization Project
+Overview
+This project focuses on analyzing medical examination data to uncover relationships between cardiovascular disease, body metrics, and lifestyle choices. By leveraging data visualization techniques, we aim to provide insights into key health risk factors and their interconnections.
+
+Objectives
+Explore the links between cardiovascular disease and various body metrics (e.g., BMI, blood pressure) as well as lifestyle choices (e.g., diet, exercise).
+Engineer relevant features to enhance the dataset, such as an "overweight" indicator based on BMI.
+Normalize variables to ensure consistency and accuracy in analysis.
+Utilize data visualization tools to identify correlations and trends within the data.
+Methodology
+Data Cleaning:
+
+Removed outliers and inconsistent records to ensure the integrity of the dataset.
+Conducted thorough checks for missing values and anomalies.
+Feature Engineering:
+
+Created new features, including a BMI-based "overweight" indicator, to facilitate deeper analysis.
+Data Normalization:
+
+Standardized variables to prepare the data for effective analysis and visualization.
+Data Visualization:
+
+Employed Matplotlib and Seaborn to create categorical plots and heatmaps.
+Visualized correlations and trends to highlight significant relationships between health metrics and lifestyle factors.
+Key Insights
+Delivered actionable insights on major health risk factors associated with cardiovascular disease.
+Identified significant correlations between body metrics and lifestyle choices, providing a clearer understanding of their impact on cardiovascular health.
+Technologies Used
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Conclusion
+This project not only enhances our understanding of cardiovascular health but also serves as a foundation for further research and analysis in the field of medical data. The visualizations created can be utilized by healthcare professionals to inform patient care and promote healthier lifestyle choices.
